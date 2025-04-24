@@ -1,0 +1,14 @@
+{
+	"folders": [
+		{
+			"path": "."
+		}
+  ],
+  "settings": {
+    "markdown.validate.enabled": true,
+    "cSpell.language": "de,de-DE"
+  },
+  "extensions": {
+    "recommendations": ["quarto.quarto"]
+  }
+}
