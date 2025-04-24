@@ -19,7 +19,7 @@ format:
     number-sections: false
     listings-no-page-break: true
     code-block-font-size: \scriptsize
-    output-file: baw-fbm-umsetzungskonzept-__ci_commit_tag__.pdf
+    output-file: painting-guide-__ci_commit_tag__.pdf
 ---
 
 ## Introduction
@@ -75,7 +75,7 @@ Primer Vallejo Polyurethane Black Primer
 
 ### Infantry
 
-| ITEM | BASE | SHADE | HIGHLIGHT I | HIGHLIGHT II | HIGHLIGHT III | EXTRA
+| ITEM | BASE | SHADE | HIGHLIGHT I | HIGHLIGHT II | HIGHLIGHT III | EXTRA |
 | --- | --- | --- | --- | --- | --- | --- |
 | Helmet | VMC Olive Grey 70.888 | GW Athonian Camoshade | VMC Russian Uniform 70926 | VMC Green Grey |  |
 | Boots | GW Rhinox Hide | GW Agrax Earthshade | GW Doombull Brown |  |  |
@@ -89,6 +89,22 @@ Primer Vallejo Polyurethane Black Primer
 | Poncho | VMC Luftwaffe Cam. Green | GW Athonian Camoshade | VMC Luftwaffe Cam. Green | VGC Goblin Green |  |
 | Knife Sheath | GW Dryad Bark | GW Agrax Earthshade | GW Dryad Bark | GW Gorthor Brown |  |
 
+### Mathilda II Tank
+
+| ITEM | BASE | SHADE | HIGHLIGHT I | HIGHLIGHT II | HIGHLIGHT III | EXTRA |
+| --- | --- | --- | --- | --- | --- | --- |
+| Primer | Vallejo Polyurethane Black Primer |  | Daler Rowney FW Ink White |  |  |  |
+| Base Color | VMC Russian Uniform 70.924 |  | VMC Deck Tan & VMC Russian Uniform (90/10) |  |
+| Camouflage | VMC VMC Olive Grey 70.888 |  | VMC Deck Tan & VMC Russian Uniform (90/10) |  |
+| Wood | VMC Flat Brown 70.984 | GW Agrax Earthshade |  |  |
+| Metal | VGA Chainmail Silver 72.753 | GW Nuln Oil |  |  |
+| Blanket | VMC British Uniform 70.921 | GW Agrax Earthshade | VMC British Uniform 70.921 | VMC British Uniform 70.921 & VMC Deck Tan 70.874 (50/50) | VMC Deck Tan 70.874 |
+| Belt | GW Dryad Bark | GW Agrax Earthshade | GW Dryad Bark & GW Gorthor Brown (50/50) | GW Gorthor Brown |
+| Chipped Paint | Bleached Bone |  |  |  |
+| Pin & Panel Wash | Mig Nato Camouflages Wash |  |  |  |
+| Weathering | AK Streaking Grime |  |  |  |
+| Dirt | Pigmente Mischung von Vallejo |  |  |  |
+
 #### Bases
 
 | ITEM | BASE | HIGHLIGHT I | HIGHLIGHT II |
@@ -100,9 +116,7 @@ Primer Vallejo Polyurethane Black Primer
 
 ## Epic Armageddon
 
-### Steel Legion
-
-#### Infantry
+### Steel Legion Infantry
 
 | PART | COLOR |
 | --- | --- |
@@ -114,7 +128,7 @@ Primer Vallejo Polyurethane Black Primer
 | Metal | Vallejo Game Air Chainmail Silver |
 | Rocket Luncher Grenades | GW Contrast Militarum Green |
 
-#### Armor
+### Imperial (Un-)Armored Vehicles
 
 | PART | COLOR |
 | --- | --- |
@@ -126,7 +140,7 @@ Primer Vallejo Polyurethane Black Primer
 | Lights Green | Vallejo Model Color Green Fluo |
 | Lights Red | Vallejo Game Color Bloody Red |
 
-#### Base
+### Base
 
 | PART | COLOR |
 | --- | --- |
@@ -206,3 +220,64 @@ Weapons:
 Base:
 
 * Vallejo Desert Yellow
+
+## Middle-earth Strategy Battle Game
+
+### Horses
+
+| ITEM | BASE | SHADE | HIGHLIGHT I | HIGHLIGHT II | HIGHLIGHT III | EXTRA |
+| --- | --- | --- | --- | --- | --- | --- |
+| Brown Horse 1 | GW Mournfang Brown | GW Skrag Brown | GW Skrag Brown & VJ White (70/30) | GW Agrax Earthshade |  |  |
+| Brown Horse 2 | GW Rhinox Hide | GW Doombull Brown | GW Agrax Earthshade | GW Doombull Brown & Tuskgor Fur (50/50) |  | Agrax Earthshade |
+| Brown Horse 3 | GW Dryad Bark | GW Gorthor Brown | GW Agrax Earthshade |  |  |  |
+| Black-brown Horse | VJ Primer Black | GW Dryad Bark | GW Nuln Oil |  |  | Mähne/Schweif schwarz, dann GW Dryad Bark trockenbürsten |
+| White Horse | Vallejo Model Color Pale Grey | VMC White |  |  |  |  |
+| Horse Blanket | GW Castellan Green | GW Athonian Camoshade | GW Castellan Green & GW Straken Green (50/50) |  GW Straken Green |  |  |
+| Horse harness | GW Gorthor Brown | GW Agrax Earthshade | VMC Deck Tan | VGC Bonewhite |  |  |
+| Head protection | GW Doombull Brown | GW Agrax Earthshade | GW Tuskor Fur |  |  |  |
+| Hooves dark | VMC Basalt Grey | GW Contrast Wyldwood | VMC Basalt Grey | GW Agrax Earthshade (stark verdünnt) |  |  |
+| Hooves light | VMC Deck Tan | Agrax Earthshade | VGC Bonewhite |  |  |  |
+| Metal | Vallejo Game Air Chainmal Silver 72.753 | GW Nuln Oil | Vallejo Game Air Chainmal Silver 72.753 | GW Chainmail (alte Farbe) |  |  |
+| Gold | Vallejo Game Color Bronze | GW Reikland Fleshshade | Vallejo Game Air Polished Gold 72.755 | GW Chainmail (alte Farbe) |  |  |
+| Saddle | GW Dryad Bark | GW Agrax Earthshade |  |  |  |  |
+| Black mane | GW Abaddon Black | VMC Basalt Grey | GW Nuln Oil | VMC Basalt Grey |  |  |
+| Hazelnut brown mane | GW Mournfang Brown | GW Agrax Earthshade | GW Mournfang Brown | GW Skrag Brown | GW Skrag Brown & VGC Bonewhite (50/50) | VGC Bonewhite |
+| Fetlock white | Daler Rowny White |  |  |  |  |  |
+| Fetlock black | VGI Black |  |  |  |  |  |
+| Eyes | GW Contrast Black Templar | Daler & Rowney White Ink | GW Abaddon Black |  |  |  |
+| Inside of the mouth | GW Contrast Black Templar |  |  |  |  |  |
+| Tongue | VGC Bloody Red & VMC Deck Tan (50/50) | VGC Bloody Red & VMC Deck Tan (25/75) |  |  |  |  |
+| Teeth | VMC Deck Tan |  |  |  |  |  |
+
+### Dernhelm
+
+Primer: Vallejo Polyurethane Grey Primer
+
+| ITEM | BASE | SHADE | HIGHLIGHT I | HIGHLIGHT II | HIGHLIGHT III | EXTRA |
+| --- | --- | --- | --- | --- | --- | --- |
+| Brown horse | GW Mournfang Brown | GW Skrag Brown | GW Skrag Brown & VJ White () | GW Agrax Earthshade |
+| Shield | GW Caliban Green | GW Nuln Oil | GW Caliban Green | GW Caliban Green &GW Warpstone Glow (70/30) | GW Caliban | Green &GW Warpstone Glow (30/70) | GW Warpstone |
+| Shield emblem | Vallejo Model Color  Deck Tan 70986 | Vertiefungen mit GW Agrax Earthshade | Game Air Dead White 72701 & Vallejo Model Color  Deck Tan 70986 (70/30) |
+| Shield back |  | GW Agrax Eartshade (x 2) |
+| Red leather | GW Doombull Brown | GW Agrax Eartshade | GW Doombull Brown | GW Doombull Brown & GW Tuskor Fur (50/50) | GW Tuskor Fur |
+| Brown leather 1 | GW Dryad Bark | GW Agrax Eartshade | GW Dryad Bark | GW Dryad Bark & GW Gorthor Brown (60/40) | GW Gorthor Brown |
+| Brown leather 2, Shirt | GW Rhinox Hide | GW Agrax Earthshade | GW Rhinox Hide & GW Mournfang Brown (50/50) | GW Mournfang Brown | GW Mournfang Brown & Skrag Brown (50/50) oder GW Rhinox Base & GW Mournfang Brown & Vallej MC Tan Earth (40/40/20) |
+| Wood | GW Dryad Bark | GW Agrax Eartshade | GW Gorthor Brown (Linien) | Vallejo Model Color Tan Earth (Linien) | GW Dryad Bark (Glaze) |
+| Arrow quiver | GW Gorthor Brown | GW Agrax Eartshade | GW Gorthor Brown | GW Gorthor Brown & Vallejo MC Tan Earth (50/50) | Vallejo MC Tan Earth |
+| Hairs / bart | GW Zandri Dust | GW Reikland Flesh | GW Zandri Dust | Vallejo Game Color Bonewhite 72.034 |
+| Flesh | GW Cadian Fleshtone | GW Guilliman Flesh | GW Cadian Fleshtone | GW Kislev Flesh |
+| Metal | Vallejo Game Air Chainmal Silver 72.753 | GW Nuln Oil | Vallejo Game Air Chainmal Silver 72.753 | GW Chainmail (alte Farbe) |
+| Gold ornaments | Vallejo Bright Bronze | GW Reikland Fleshshade | Vallejo Game Air Polished Gold 72.755 | GW Chainmail (alte Farbe) |
+| Sword- / bowhilt | Vallejo Tan Earth | GW Agrax Eartshade | Vallejo Tan Earth | Vallejo Game Color Bonewhite 72.034 |
+| Mantel | GW Castellan Green | GW Athonian Camoshade | GW Castellan Green | GW Castellan Green & GW Straken Green (50/50) | GW Straken Green | GW Castellan Green Glaze |
+| Arrow feathers |  | GW Agrax Earthshade | Vallejo Model Color Deck Tan |
+| Trousers | GW Dryad Bark | GW Agrax Earthshade | GW Dryad Bark & Vallejo Tan Earth (50/50) | GW Dryad Bark & Vallejo Tan Earth (15/85) |
+
+### Bases
+
+| PART | BASE | HIGHLIGHT I | HIGHLIGHT II |
+| --- | --- | --- | --- |
+| Earth | Vallejo Dark Earth Texture | GW Zandri Dust | Vallejo Iraqui Sand |
+| Baserand | GW Abaddon Black |  |  |
+| Tufts |  |  |  |
+| Stones | Vallejo Basalt Grey | Vallejo Model Air Pale Grey | Vallejo Model Air White |
