@@ -191,6 +191,20 @@ Primer: Montana Gold Black
 
 ### United States
 
+### Infantry
+
+Primer: Vallejo Acrylic-Polyurethane Grey Primer
+
+| ITEM | BASE | SHADE | HIGHLIGHT |
+| --- | --- | --- | --- |
+| Pants | VMC US Field Drab (873) | GW Agrax Earthshade | VMC US Field Drab (873) |
+| Jackets & Leggings | VMC Khaki (988) | GW Agrax Earthshade | VMC Khaki (988) |
+| Flesh | GW Cadian Fleshtone | GW Reikland Fleshshade | GW Cadian Fleshtone |
+| Webbing | VMC Green Grey (886) | GW Agrax Earthshade | VMC Green Grey (886) |
+| Rifle Wood Base | VMC Flat Brown (984) | GW Agrax Earthshade | VMC Flat Brown (984) |
+| Metal | VMC German Grey (995) | GW Nuln Oil | VMC German Grey (995) |
+| Helmet | VMC Olive Drab (887) | GW Nuln Oil | VMC Olive Drab (887) |
+
 #### Bases
 
 1. Vallejo Dark Earth Texture
