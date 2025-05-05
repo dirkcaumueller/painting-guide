@@ -1,35 +1,35 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
-    <loc>https://dirkcaumueller.github.io/painting-guide/index.html</loc>
-    <lastmod>2025-05-05T13:59:34.592Z</lastmod>
-  </url>
-  <url>
     <loc>https://dirkcaumueller.github.io/painting-guide/games/force-on-force.html</loc>
-    <lastmod>2025-05-05T13:59:34.589Z</lastmod>
-  </url>
-  <url>
-    <loc>https://dirkcaumueller.github.io/painting-guide/games/epic-armageddon.html</loc>
-    <lastmod>2025-05-05T13:59:34.589Z</lastmod>
-  </url>
-  <url>
-    <loc>https://dirkcaumueller.github.io/painting-guide/games/alien-vs-predator.html</loc>
-    <lastmod>2025-05-05T13:59:34.588Z</lastmod>
-  </url>
-  <url>
-    <loc>https://dirkcaumueller.github.io/painting-guide/about.html</loc>
-    <lastmod>2025-05-05T13:59:34.588Z</lastmod>
-  </url>
-  <url>
-    <loc>https://dirkcaumueller.github.io/painting-guide/games/bolt-action.html</loc>
-    <lastmod>2025-05-05T13:59:34.589Z</lastmod>
+    <lastmod>2025-05-05T14:06:08.224Z</lastmod>
   </url>
   <url>
     <loc>https://dirkcaumueller.github.io/painting-guide/games/flames-of-war.html</loc>
-    <lastmod>2025-05-05T13:59:34.589Z</lastmod>
+    <lastmod>2025-05-05T14:06:08.224Z</lastmod>
+  </url>
+  <url>
+    <loc>https://dirkcaumueller.github.io/painting-guide/games/bolt-action.html</loc>
+    <lastmod>2025-05-05T14:06:08.224Z</lastmod>
+  </url>
+  <url>
+    <loc>https://dirkcaumueller.github.io/painting-guide/index.html</loc>
+    <lastmod>2025-05-05T14:06:08.225Z</lastmod>
+  </url>
+  <url>
+    <loc>https://dirkcaumueller.github.io/painting-guide/about.html</loc>
+    <lastmod>2025-05-05T14:06:08.224Z</lastmod>
+  </url>
+  <url>
+    <loc>https://dirkcaumueller.github.io/painting-guide/games/epic-armageddon.html</loc>
+    <lastmod>2025-05-05T14:06:08.224Z</lastmod>
   </url>
   <url>
     <loc>https://dirkcaumueller.github.io/painting-guide/games/mesbg.html</loc>
-    <lastmod>2025-05-05T13:59:34.592Z</lastmod>
+    <lastmod>2025-05-05T14:06:08.225Z</lastmod>
+  </url>
+  <url>
+    <loc>https://dirkcaumueller.github.io/painting-guide/games/alien-vs-predator.html</loc>
+    <lastmod>2025-05-05T14:06:08.224Z</lastmod>
   </url>
 </urlset>
