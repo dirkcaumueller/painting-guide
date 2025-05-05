@@ -22,6 +22,7 @@ Primer: Vallejo Acrylic-Polyurethane Grey Primer
 | Metal | VMC German Grey (995) | GW Nuln Oil | VMC German Grey (995) |  |
 | Helmet | VMC Olive Drab (887) | GW Athonian Camoshade | VMC Olive Drab (887) |  |
 | Boots & Holster | VMC Flat Brown (984) | GW Agrax Earthshade | VMC Flat Brown (984) | VMC Mahogany Brown (846) |
+| Helmet strap | GW Rhinox Hide | VMC Mahogany Brown (846) |
 
 ### Bases
 
