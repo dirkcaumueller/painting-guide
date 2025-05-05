@@ -19,6 +19,7 @@ website:
     - index.qmd
     - auto: "games/*.qmd"
     - about.qmd
+
 format:
   html:
     theme:
@@ -26,3 +27,6 @@ format:
       light: flatly
     css: styles.css
     toc: true
+
+execute:
+  freeze: auto
