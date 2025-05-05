@@ -1,7 +1,3 @@
-# painting_guide
-Painting guide for my various tabletop miniatures.
+# Painting Guide
 
-
-
-
-quarto install extension lukfor/quarto-eisvogel
+This repository contains a collection of painting guides for my various tabletop miniatures of different games. Each guide provides step-by-step instructions on how to paint a specific miniature, including color palettes and techniques.
