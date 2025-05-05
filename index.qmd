@@ -1,0 +1,6 @@
+---
+title: "Home"
+lang: "en"
+---
+
+This document is a loose collection of my painting steps for various tabletop games and their miniatures and scenery. It helps me to remember the colors and steps to reproduce the same output all the time.

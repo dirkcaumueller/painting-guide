@@ -1,0 +1,31 @@
+---
+title: "Flames of War"
+author: "Dirk Aumueller"
+date: last-modified
+date-format: "DD.MM.YYYY"
+lang: "en"
+---
+
+## United States
+
+### Infantry
+
+Primer: Vallejo Acrylic-Polyurethane Grey Primer
+
+| ITEM | BASE | SHADE | HIGHLIGHT 1 | HIGHLIGHT 2 |
+| --- | --- | --- | --- | --- |
+| Pants | VMC US Field Drab (873) | GW Agrax Earthshade |  |  |
+| Jackets & Leggings | VMC Khaki (988) | GW Agrax Earthshade | VMC Khaki (988) |  |
+| Flesh | GW Contrast Guilliman Flesh | GW Contrast Guilliman Flesh | GW Kislev Flesh |  |
+| Webbing | VMC Green Grey (886) | GW Agrax Earthshade | VMC Green Grey (886) |  |
+| Rifle Wood Base | VMC Flat Brown (984) | GW Agrax Earthshade | VMC Flat Brown (984) |  |
+| Metal | VMC German Grey (995) | GW Nuln Oil | VMC German Grey (995) |  |
+| Helmet | VMC Olive Drab (887) | GW Athonian Camoshade | VMC Olive Drab (887) |  |
+| Boots & Holster | VMC Flat Brown (984) | GW Agrax Earthshade | VMC Flat Brown (984) | VMC Mahogany Brown (846) |
+
+### Bases
+
+1. Vallejo Dark Earth Texture
+2. GW Dryad Bark
+3. VMC Green Ochre 70914
+4. VGC Bonewhite 72034

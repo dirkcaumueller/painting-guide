@@ -1,0 +1,46 @@
+---
+title: "Alien vs. Predator"
+author: "Dirk Aumueller"
+date: last-modified
+date-format: "DD.MM.YYYY"
+lang: "en"
+---
+
+## Alien Stalker
+
+1. Airbrush the miniature with Vallejo Black primer.
+2. Airbrush Tamiya XF-9 Hull Red with 45° angle one the miniature leaving deeper recesses black.
+3. Airbruh Tamiya XF-68 Nato Brown on the head.
+4. Wash entire miniature with a mix of 50/50 GW Badab Black and water.
+5. Drybrush highlights with Vallejo Mahogany Brown (VJ70846).
+6. Wash entire miniature with a mix of 20/80 GW Badab Black and water.
+
+## Alien Infant
+
+1. Airbrush the miniature with Vallejo black primer.
+2. Drybrush the miniature with GW Mithril Silver. Paint the head completely with this color.
+3. Wash entire miniature with a mix of 50/50 GW Badab Black and water. If still to shiny, repeat washing.
+4. Fade head at the back with Vallejo Negro Black (VJ70950).
+5. Wash entire miniature with a mix of 50/50 GW Badab Black and water. If still to shiny, repeat washing.
+Predator
+
+## USCM
+
+1. Airbrush the miniature with Vallejo Black primer.
+2. Airbrush clothes and skin with a light layer of Vallejo Grey primer.
+3. Paint the uniform with Vallejo German Camouflage Beige (VJ70821).
+a. Paint camouflage pattern with Vallejo German Camouflage Medium Brown (VJ70826), Luftwaffe Camouflage Green (VJ70823) and Deck Tan (VJ70986).
+4. Paint the armor including ammunition pouches with Vallejo German Camouflage Dark Green (VJ70979).
+5. Paint flesh with Games Workshop Tallarn Flesh.
+6. Use Deck Tan (VJ70986) for all white-like colors.
+7. Straps are Vallejo German Camouflage Beige (VJ70821) painted.
+8. Flashlights, cameras, displays, head on displays, etc. are painted with Vallejo Ultramarine Blue (VJ72022).
+9. Weapons, boots and armor straps stay black.
+10. Wash entire model with Games Workshop Devlan Mud.
+11. Highlight each color with base color, sometimes add some Vallejo Deck Tan (VJ70986).
+12. Highlight weapons and black armor straps with Vallejo German Grey (VJ70995).
+
+## Bases
+
+1. Apply Vallejo Dark Earth (VJ26218) to base.
+2. Drybrush base with Vallejo Bone White (VJ72034).

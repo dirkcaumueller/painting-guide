@@ -1,251 +1,12 @@
 ---
-title: "Painting Guide"
-subtitle: "__ci_commit_tag__, __ci_commit_short_sha__"
+title: "Middle-earth Strategy Battle Game"
 author: "Dirk Aumueller"
 date: last-modified
 date-format: "DD.MM.YYYY"
-lang: "de"
-format:
-  eisvogel-pdf:
-    pdfengine: xelatex
-    titlepage: true
-    titlepage-text-color: "ffffff"
-    titlepage-color: "0064a5"
-#    titlepage-logo: images/logo.png
-    titlepage-rule-color: "ffffff"
-    header-right: ""
-    toc: true
-    toc-own-page: true
-    number-sections: false
-    listings-no-page-break: true
-    code-block-font-size: \scriptsize
-    output-file: painting-guide-__ci_commit_tag__.pdf
+lang: "en"
 ---
 
-## Introduction
-
-This document is a loose collection of my painting steps for various tabletop games and their miniatures and scenery.
-
-## Alien vs. Predator
-
-### Alien Stalker
-
-1. Airbrush the miniature with Vallejo Black primer.
-2. Airbrush Tamiya XF-9 Hull Red with 45° angle one the miniature leaving deeper recesses black.
-3. Airbruh Tamiya XF-68 Nato Brown on the head.
-4. Wash entire miniature with a mix of 50/50 GW Badab Black and water.
-5. Drybrush highlights with Vallejo Mahogany Brown (VJ70846).
-6. Wash entire miniature with a mix of 20/80 GW Badab Black and water.
-
-### Alien Infant
-
-1. Airbrush the miniature with Vallejo black primer.
-2. Drybrush the miniature with GW Mithril Silver. Paint the head completely with this color.
-3. Wash entire miniature with a mix of 50/50 GW Badab Black and water. If still to shiny, repeat washing.
-4. Fade head at the back with Vallejo Negro Black (VJ70950).
-5. Wash entire miniature with a mix of 50/50 GW Badab Black and water. If still to shiny, repeat washing.
-Predator
-
-### USCM
-
-1. Airbrush the miniature with Vallejo Black primer.
-2. Airbrush clothes and skin with a light layer of Vallejo Grey primer.
-3. Paint the uniform with Vallejo German Camouflage Beige (VJ70821).
-a. Paint camouflage pattern with Vallejo German Camouflage Medium Brown (VJ70826), Luftwaffe Camouflage Green (VJ70823) and Deck Tan (VJ70986).
-4. Paint the armor including ammunition pouches with Vallejo German Camouflage Dark Green (VJ70979).
-5. Paint flesh with Games Workshop Tallarn Flesh.
-6. Use Deck Tan (VJ70986) for all white-like colors.
-7. Straps are Vallejo German Camouflage Beige (VJ70821) painted.
-8. Flashlights, cameras, displays, head on displays, etc. are painted with Vallejo Ultramarine Blue (VJ72022).
-9. Weapons, boots and armor straps stay black.
-10. Wash entire model with Games Workshop Devlan Mud.
-11. Highlight each color with base color, sometimes add some Vallejo Deck Tan (VJ70986).
-12. Highlight weapons and black armor straps with Vallejo German Grey (VJ70995).
-
-### Bases
-
-1. Apply Vallejo Dark Earth (VJ26218) to base.
-2. Drybrush base with Vallejo Bone White (VJ72034).
-
-## Bolt Action
-
-### Australians
-
-Primer Vallejo Polyurethane Black Primer
-
-### Infantry
-
-| ITEM | BASE | SHADE | HIGHLIGHT I | HIGHLIGHT II | HIGHLIGHT III | EXTRA |
-| --- | --- | --- | --- | --- | --- | --- |
-| Helmet | VMC Olive Grey 70.888 | GW Athonian Camoshade | VMC Russian Uniform 70926 | VMC Green Grey |  |
-| Boots | GW Rhinox Hide | GW Agrax Earthshade | GW Doombull Brown |  |  |
-| Uniform | Russian Uniform | GW Athonian Camoshade | VMC Russian Uniform 70926 | VMC Green Grey 70886 | VMC Green Grey 70886 & VMC Deck Tan (50/50) |
-| Metal | VMC German Grey | GW Nuln Oil | VMC Basalt Grey | VMC Basalt Grey & VMC Deck Tan (50/50) |  |
-| Straps, Backpacks, Bags | VMC Khaki | GW Agrax Earthshade | VMC Khaki | VMC Iraqui Sands |  |
-| Flesh | Foundry Mediterranean Flesh (Shade) | GW Reikland Flesh  | Foundry Mediterranean Flesh (Shade) | Foundry Mediterranean Flesh | Foundry Mediterranean Flesh (Light) | GW Kislev Flesh |
-| Drinking Bottle | GW Doombull Brown | GW Agrax Earthshade | GW Doombull Brown | GW Tuskor Fur |  |
-| Drinking Bottle Metal Part, Knife | VMC Dark Grey | GW Nuln Oil | VMC Basalt Grey | VMC Basalt Grey & VMC Deck Tan (50/50) |  |
-| Weapon | VMC Dark Grey | GW Nuln Oil | VMC Basalt Grey | VMC Basalt Grey & VMC Deck Tan (50/50) |  |
-| Poncho | VMC Luftwaffe Cam. Green | GW Athonian Camoshade | VMC Luftwaffe Cam. Green | VGC Goblin Green |  |
-| Knife Sheath | GW Dryad Bark | GW Agrax Earthshade | GW Dryad Bark | GW Gorthor Brown |  |
-
-### Mathilda II Tank
-
-| ITEM | BASE | SHADE | HIGHLIGHT I | HIGHLIGHT II | HIGHLIGHT III | EXTRA |
-| --- | --- | --- | --- | --- | --- | --- |
-| Primer | Vallejo Polyurethane Black Primer |  | Daler Rowney FW Ink White |  |  |  |
-| Base Color | VMC Russian Uniform 70.924 |  | VMC Deck Tan & VMC Russian Uniform (90/10) |  |
-| Camouflage | VMC VMC Olive Grey 70.888 |  | VMC Deck Tan & VMC Russian Uniform (90/10) |  |
-| Wood | VMC Flat Brown 70.984 | GW Agrax Earthshade |  |  |
-| Metal | VGA Chainmail Silver 72.753 | GW Nuln Oil |  |  |
-| Blanket | VMC British Uniform 70.921 | GW Agrax Earthshade | VMC British Uniform 70.921 | VMC British Uniform 70.921 & VMC Deck Tan 70.874 (50/50) | VMC Deck Tan 70.874 |
-| Belt | GW Dryad Bark | GW Agrax Earthshade | GW Dryad Bark & GW Gorthor Brown (50/50) | GW Gorthor Brown |
-| Chipped Paint | Bleached Bone |  |  |  |
-| Pin & Panel Wash | Mig Nato Camouflages Wash |  |  |  |
-| Weathering | AK Streaking Grime |  |  |  |
-| Dirt | Pigmente Mischung von Vallejo |  |  |  |
-
-#### Bases
-
-| ITEM | BASE | HIGHLIGHT I | HIGHLIGHT II |
-| --- | --- | --- | --- |
-| Earth | Vallejo Dark Earth Texture | GW Zandri Dust | Vallejo Iraqui Sand |
-| Baserand | Schwarz |  |  |
-| Tufts |  |  |  |
-| Stones | Vallejo Basalt Grey | Vallejo Model Air Pale Grey | Vallejo Model Air White |
-
-## Epic Armageddon
-
-### Steel Legion Infantry
-
-| PART | COLOR |
-| --- | --- |
-| Primer | Vallejo Grey Primer |
-| Uniform | GW Contrast Aggaros Dunes |
-| Helmet, Trousers, Belt | GW Contrast Black Templar |
-| Boots, ABC Mask | GW Contrast Wyldwood |
-| Lasguns | GW Blood Angels Red |
-| Metal | Vallejo Game Air Chainmail Silver |
-| Rocket Launcher Grenades | GW Contrast Militarum Green |
-
-### Imperial (Un-)Armored Vehicles
-
-| PART | COLOR |
-| --- | --- |
-| Primer | Vallejo Grey Primer |
-| Camouflage Light | Ammo of Mig RAL7028 Dunkelgelb '44 |
-| Camouflage Green | Tamiya XF-58 |
-| Metal | Vellejo Game Air Chainmail Silver |
-| Exhaust, Track Wash | Vallejo Model Color Cavalry Brown |
-| Lights Green | Vallejo Model Color Green Fluo |
-| Lights Red | Vallejo Game Color Bloody Red |
-
-### Base
-
-| PART | COLOR |
-| --- | --- |
-| Base | Vallejo Dark Earth Texture |
-| Highlights | Vallejo Model Color Pale Grey |
-
-### City Battlefield
-
-Primer: Montana Gold Black
-
-#### Buildings
-
-* GW Zandri Dust
-* Ammo of Mig: RAL 7028 Dunkelgelb aus'44 DGI A.MIG-011
-* Drybrush Vallejo Bleached Bone
-
-#### Building Rooftops
-
-* Tamiya Hull Red XF-9
-* Vallejo Model Color Cavalry Brown 70982
-* Black Oil Wash
-
-#### Metal Parts
-
-* Vallejo Boltgun Metal
-* GW Nuln Oil
-
-#### Ruins
-* Vallejo Model Color Dark Grey
-* Vallejo Model Color Basalt Grey
-* Vallejo Model Air Dark Earth 71.029
-
-#### Flat Surfaces
-* Vallejo Model Color Basalt Grey
-* Vallejo Model Air Dark Earth 71.029
-* Vallejo Polyurethane Primer Black
-
-#### Crater
-* Vallejo Model Air Dark Earth 71.029
-* Minitare D6-114 Earth
-* Vallejo Polyurethane Primer Black
-
-#### Bunker & Weapon Emplacements
-* Ammo of Mig: RAL6003 Olivgrün opt.2 A.MIG-002
-* Ammo of Mig: RAL 6011 Resedragrün A.MIG-003
-
-## Flames of War
-
-### United States
-
-### Infantry
-
-Primer: Vallejo Acrylic-Polyurethane Grey Primer
-
-| ITEM | BASE | SHADE | HIGHLIGHT 1 | HIGHLIGHT 2 |
-| --- | --- | --- | --- | --- |
-| Pants | VMC US Field Drab (873) | GW Agrax Earthshade |  |  |
-| Jackets & Leggings | VMC Khaki (988) | GW Agrax Earthshade | VMC Khaki (988) |  |
-| Flesh | GW Contrast Guilliman Flesh | GW Contrast Guilliman Flesh | GW Kislev Flesh |  |
-| Webbing | VMC Green Grey (886) | GW Agrax Earthshade | VMC Green Grey (886) |  |
-| Rifle Wood Base | VMC Flat Brown (984) | GW Agrax Earthshade | VMC Flat Brown (984) |  |
-| Metal | VMC German Grey (995) | GW Nuln Oil | VMC German Grey (995) |  |
-| Helmet | VMC Olive Drab (887) | GW Athonian Camoshade | VMC Olive Drab (887) |  |
-| Boots & Holster | VMC Flat Brown (984) | GW Agrax Earthshade | VMC Flat Brown (984) | VMC Mahogany Brown (846) |
-
-#### Bases
-
-1. Vallejo Dark Earth Texture
-2. GW Dryad Bark
-3. VMC Green Ochre 70914
-4. VGC Bonewhite 72034
-
-## Force on Force
-
-### USMC
-
-Primer: Vallejo Primer Black Acrylic-Polyurethane (200ml)
-
-Uniform:
-
-* Vallejo Khaki
-* Vallejo Stone Grey
-* Vallejo Deck Tan
-* GW Devlan Mud
-
-Webbing:
-
-* Vallejo English Uniform
-* GW Devlan Mud
-* Vallejo US Drab Earth
-
-Goggles / Straps:
-
-* Vallejo Iraqi Sand
-
-Weapons:
-
-* Vallejo Negro Black
-* Vallejo German Grey
-
-Base:
-
-* Vallejo Desert Yellow
-
-## Middle-earth Strategy Battle Game
+## Rohan
 
 ### Rohan Defaults
 
@@ -411,15 +172,14 @@ Stiefel, Hose, Gürtel, Hemd | GW Dryad Bark | GW Agrax Earthshade | GW Dryad Ba
 Sattelholz | GW Rhinox Hide | GW Agrax Earthshade | GW Rhinox Hide & GW Mournfang Brown (50/50) | GW Mournfang Brown
 Handschuhe, Rüstungshalterung, Schwertscheide | GW Rhinox Hide | GW Agrax Earthshade | GW Doombull Brown | GW Tuskgor Fur
 
-### Farmer Maggot's Dogs
+### Bases
 
-Primer: Vallejo Polyurethane Grey Primer
-
-| ITEM | BASE | SHADE | HIGHLIGHT I | HIGHLIGHT II | HIGHLIGHT III | EXTRA |
-| --- | --- | --- | --- | --- | --- | --- |
-Schwarzes Fell | GW Contrast Black Templars (x2) |  |  |  |  |
-Dunkelbraunes Fell | GW Dryad Bark & GW Mournfang Brown (25 % / 75 %) | GW Agrax Earthshade | GW Mournfang Brown & Vallejo Tan Earth (50/50) | GW Mournfang Brown & Vallejo Tan Earth (10/90) | Vallejo Tan Earth | Vallejo Tan Earth & Vallejo Iraqi Sand (50/50)
-Halsband | GW Doombull Brown | GW Agrax Earthshade | GW Doombull Brown | GW Doombull Brown & GW Tuskor Fur (50/50) | GW Tuskor Fur |
+| PART | BASE | HIGHLIGHT I | HIGHLIGHT II |
+| --- | --- | --- | --- |
+| Earth | Vallejo Dark Earth Texture | GW Zandri Dust | Vallejo Iraqui Sand |
+| Baserand | GW Abaddon Black |  |  |
+| Tufts |  |  |  |
+| Stones | Vallejo Basalt Grey | Vallejo Model Air Pale Grey | Vallejo Model Air White |
 
 ### Rohan House
 
@@ -436,6 +196,18 @@ Primer: Vallejo Polyurethane Grey Primer
 | Fenster | VMC Basalt Grey (Airbrush) | GW Contrast Black Templar |  |  |  |  |
 | Fenstergitter | VMC Basalt Grey (Airbrush) | VGA Chainmail | GW Contrast Black Templar | GW Chainmail |  |  |
 
+## Hobbits
+
+### Farmer Maggot's Dogs
+
+Primer: Vallejo Polyurethane Grey Primer
+
+| ITEM | BASE | SHADE | HIGHLIGHT I | HIGHLIGHT II | HIGHLIGHT III | EXTRA |
+| --- | --- | --- | --- | --- | --- | --- |
+Schwarzes Fell | GW Contrast Black Templars (x2) |  |  |  |  |
+Dunkelbraunes Fell | GW Dryad Bark & GW Mournfang Brown (25 % / 75 %) | GW Agrax Earthshade | GW Mournfang Brown & Vallejo Tan Earth (50/50) | GW Mournfang Brown & Vallejo Tan Earth (10/90) | Vallejo Tan Earth | Vallejo Tan Earth & Vallejo Iraqi Sand (50/50)
+Halsband | GW Doombull Brown | GW Agrax Earthshade | GW Doombull Brown | GW Doombull Brown & GW Tuskor Fur (50/50) | GW Tuskor Fur |
+
 ### Bases
 
 | PART | BASE | HIGHLIGHT I | HIGHLIGHT II |
@@ -445,7 +217,7 @@ Primer: Vallejo Polyurethane Grey Primer
 | Tufts |  |  |  |
 | Stones | Vallejo Basalt Grey | Vallejo Model Air Pale Grey | Vallejo Model Air White |
 
-### Nazgul of Dol Guldur
+## Nazgul of Dol Guldur
 
 Primer: Vallejo Polyurethane Black Primer
 

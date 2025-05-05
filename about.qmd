@@ -1,0 +1,15 @@
+---
+title: "About"
+about:
+  template: jolla
+  image: profile.jpg
+  links:
+    - icon: github
+      text: Github
+      href: https://github.com/dirkcaumueller/painting-guide
+    - icon: instagram
+      text: Instagram
+      href: https://www.instagram.com/dirkaumueller
+---
+
+I'm just a hobby painter.

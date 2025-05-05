@@ -1,0 +1,82 @@
+---
+title: "Epic Armageddon"
+author: "Dirk Aumueller"
+date: last-modified
+date-format: "DD.MM.YYYY"
+lang: "en"
+---
+
+## Steel Legion Infantry
+
+| PART | COLOR |
+| --- | --- |
+| Primer | Vallejo Grey Primer |
+| Uniform | GW Contrast Aggaros Dunes |
+| Helmet, Trousers, Belt | GW Contrast Black Templar |
+| Boots, ABC Mask | GW Contrast Wyldwood |
+| Lasguns | GW Blood Angels Red |
+| Metal | Vallejo Game Air Chainmail Silver |
+| Rocket Launcher Grenades | GW Contrast Militarum Green |
+
+## Imperial (Un-)Armored Vehicles
+
+| PART | COLOR |
+| --- | --- |
+| Primer | Vallejo Grey Primer |
+| Camouflage Light | Ammo of Mig RAL7028 Dunkelgelb '44 |
+| Camouflage Green | Tamiya XF-58 |
+| Metal | Vellejo Game Air Chainmail Silver |
+| Exhaust, Track Wash | Vallejo Model Color Cavalry Brown |
+| Lights Green | Vallejo Model Color Green Fluo |
+| Lights Red | Vallejo Game Color Bloody Red |
+
+## Base
+
+| PART | COLOR |
+| --- | --- |
+| Base | Vallejo Dark Earth Texture |
+| Highlights | Vallejo Model Color Pale Grey |
+
+## City Battlefield
+
+Primer: Montana Gold Black
+
+### Buildings
+
+* GW Zandri Dust
+* Ammo of Mig: RAL 7028 Dunkelgelb aus'44 DGI A.MIG-011
+* Drybrush Vallejo Bleached Bone
+
+### Building Rooftops
+
+* Tamiya Hull Red XF-9
+* Vallejo Model Color Cavalry Brown 70982
+* Black Oil Wash
+
+### Metal Parts
+
+* Vallejo Boltgun Metal
+* GW Nuln Oil
+
+### Ruins
+
+* Vallejo Model Color Dark Grey
+* Vallejo Model Color Basalt Grey
+* Vallejo Model Air Dark Earth 71.029
+
+### Flat Surfaces
+
+* Vallejo Model Color Basalt Grey
+* Vallejo Model Air Dark Earth 71.029
+* Vallejo Polyurethane Primer Black
+
+### Crater
+
+* Vallejo Model Air Dark Earth 71.029
+* Minitare D6-114 Earth
+* Vallejo Polyurethane Primer Black
+
+### Bunker & Weapon Emplacements
+
+* Ammo of Mig: RAL6003 Olivgrün opt.2 A.MIG-002
+* Ammo of Mig: RAL 6011 Resedragrün A.MIG-003

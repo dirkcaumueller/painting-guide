@@ -1,0 +1,28 @@
+project:
+  type: website
+
+website:
+  title: "Dirk's Painting Guide"
+  page-footer: "Copyright 2025, Dirk Aumueller"
+  description: "A guide to painting tabletop miniatures."
+  back-to-top-navigation: true
+  navbar:
+    search: true
+    tools:
+    - icon: github
+      href: https://github.com/dirkcaumueller/painting-guide
+    - icon: instagram
+      href: https://www.instagram.com/dirkaumueller
+  sidebar:
+    style: "docked"
+    contents:
+    - index.qmd
+    - auto: "games/*.qmd"
+    - about.qmd
+format:
+  html:
+    theme:
+      dark: darkly
+      light: flatly
+    css: styles.css
+    toc: true
