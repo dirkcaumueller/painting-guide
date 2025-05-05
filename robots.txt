@@ -1,0 +1,1 @@
+Sitemap: https://dirkcaumueller.github.io/painting-guide/sitemap.xml
