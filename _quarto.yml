@@ -1,5 +1,9 @@
 project:
   type: website
+  preview:
+    port: 8000
+    browser: true
+    watch-inputs: true
 
 website:
   title: "Dirk's Painting Guide"
@@ -27,6 +31,18 @@ format:
       light: flatly
     css: styles.css
     toc: true
+  pdf:
+    documentclass: scrartcl
+    toc: true
+    toc-depth: 2
+    number-sections: true
+    highlight-style: github
+    fig_caption: true
+    latex-engine: xelatex
+    citation-package: biblatex
+    keep-tex: true
+    includes:
+      in-header: header.tex
 
 execute:
   freeze: auto

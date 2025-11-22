@@ -5,3 +5,6 @@ QTDublinIrish.otf
 painting-guide-__ci_commit_tag__.pdf
 painting-guide-*
 /.quarto/
+
+# Snyk Security Extension - AI Rules (auto-generated)
+.github\instructions\snyk_rules.instructions.md

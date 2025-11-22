@@ -18,7 +18,7 @@ Primer: Vallejo Acrylic-Polyurethane Grey Primer
 | Jackets & Leggings | VMC Khaki (988) | GW Agrax Earthshade | VMC Khaki (988) |  |  |
 | Flesh | GW Contrast Guilliman Flesh | GW Contrast Guilliman Flesh | GW Kislev Flesh |  |  |
 | Webbing | VMC Green Grey (886) | GW Agrax Earthshade | VMC Green Grey (886) |  |
-| Rifle Wood Base | VMC Flat Brown (984) | GW Agrax Earthshade | VMC Flat Brown (984) |  |  |
+| Rifle Wood Base | VMC Flat Brown (984) | GW Agrax Earthshade | VMC Flat Brown (984) | GW Skrag Brown |  |
 | Rifle Strap | VMC Desert Yellow (977) | GW Agrax Earthshade | VMC Desert Yellow (977) |  |  |
 | Metal | VMC German Grey (995) | GW Nuln Oil | VMC German Grey (995) |  |  |
 | Helmet | VMC Olive Drab (887) | GW Athonian Camoshade | VMC Olive Drab (887) | AoM Olive Drab Light Base (0927) | AoM Olive Drab Shine (0929)
