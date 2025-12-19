@@ -1,0 +1,31 @@
+---
+title: "Warhammer 40K"
+author: "Dirk Aumueller"
+date: last-modified
+date-format: "DD.MM.YYYY"
+lang: "en"
+---
+
+## OnePageRules Space Wolves Equivalents
+
+| TYPE | ONE PAGE RULES | GAMES WORKSHOP |
+| --- | --- | --- |
+| Hero | Veteran Wolf Prime Master | Njal Stormcaller (Master Archivist) |
+| Hero | Veteran Wolf Prime Master | Ragnar Blackmane |
+| Hero | Wolf Prime Master | Wolf Guard Battle Leader (Energy Sword + Combat Shield) |
+| Hero | Wolf Prime Master | Wolf Priest |
+| Hero | Wolf Master Brother w/ Great Wolf Mount | Wolf Lord on Thunderwolf, Canis Wolfborn |
+| Infantry | Wolf Raider Squad | Hounds of Morkai |
+| Infantry | Wolf Guard Squad | Wolf Guard Headtakers |
+| Infantry Wolf Rookies | Blood Claws |
+| Infantry Werewolf Brothers | Wulfen |
+| Infantry Hunting Wolves | Fenrisian Wolves |
+| Infantry Wolf Riders | Thunderwolf Cavalry |
+| Vehicle | Veteran Wolf Attack Walker w/ 2x Combat Claws | Murderfang |
+| Vehicle | Veteran Wolf Attack Walker w/ Combat Shield and Axe | Space Wolves Venerable Dreadnought |
+| Vehicle | Veteran Wolf Attack Walker w/ Heavy Minigun and Combat Claw | Bjorn the Fell-Handed |
+
+**Links:**
+
+https://onepagefan.wiki/index.php/Battle_Brothers_Miniatures#Wolf_Brothers
+https://onepagefan.wiki/index.php/Prime_Brothers_Miniatures#Wolf_Brothers

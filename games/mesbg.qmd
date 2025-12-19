@@ -39,7 +39,7 @@ Primer: Vallejo Polyurethane Grey Primer
 | Horse harness | GW Gorthor Brown | GW Agrax Earthshade | VMC Deck Tan | VGC Bonewhite |  |  |
 | Head protection | GW Doombull Brown | GW Agrax Earthshade | GW Tuskor Fur |  |  |  |
 | Hooves dark | VMC Basalt Grey | GW Contrast Wyldwood | VMC Basalt Grey | GW Agrax Earthshade (stark verdünnt) |  |  |
-| Hooves light | VMC Deck Tan | Agrax Earthshade | VGC Bonewhite |  |  |  |
+| Hooves light | VMC Tan-Earth | Agrax Earthshade | VMC Tan-Earth |  |  |  |
 | Gold | Vallejo Game Color Bronze | GW Reikland Fleshshade | Vallejo Game Air Polished Gold 72.755 | GW Chainmail (alte Farbe) |  |  |
 | Saddle | GW Dryad Bark | GW Agrax Earthshade |  |  |  |  |
 | Black mane | GW Abaddon Black | VMC Basalt Grey | GW Nuln Oil | VMC Basalt Grey |  |  |
