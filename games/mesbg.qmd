@@ -36,7 +36,7 @@ Primer: Vallejo Polyurethane Grey Primer
 | Black-brown Horse | VJ Primer Black | GW Dryad Bark | GW Nuln Oil |  |  | Mähne/Schweif schwarz, dann GW Dryad Bark trockenbürsten |
 | White Horse | Vallejo Model Color Pale Grey | VMC White |  |  |  |  |
 | Horse Blanket | GW Castellan Green | GW Athonian Camoshade | GW Castellan Green & GW Straken Green (50/50) |  GW Straken Green |  |  |
-| Horse harness | GW Gorthor Brown | GW Agrax Earthshade | VMC Deck Tan | VGC Bonewhite |  |  |
+| Horse harness | GW Gorthor Brown | GW Agrax Earthshade | VMC Tan-Earth | |  |  |
 | Head protection | GW Doombull Brown | GW Agrax Earthshade | GW Tuskor Fur |  |  |  |
 | Hooves dark | VMC Basalt Grey | GW Contrast Wyldwood | VMC Basalt Grey | GW Agrax Earthshade (stark verdünnt) |  |  |
 | Hooves light | VMC Tan-Earth | Agrax Earthshade | VMC Tan-Earth |  |  |  |
