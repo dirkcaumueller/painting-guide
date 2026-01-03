@@ -49,7 +49,6 @@ Primer: Vallejo Polyurethane Black Primer
 
 | ITEM | BASE | HIGHLIGHT I | HIGHLIGHT II |
 | --- | --- | --- | --- |
-| Earth | Vallejo Dark Earth Texture | GW Zandri Dust | Vallejo Iraqui Sand |
-| Baserand | Schwarz |  |  |
+| Earth | GW Rhinox Hide | Krautcover Kodama Woods |  |
+| Baserand | GW Rhinox Hide |  |  |
 | Tufts |  |  |  |
-| Stones | Vallejo Basalt Grey | Vallejo Model Air Pale Grey | Vallejo Model Air White |
