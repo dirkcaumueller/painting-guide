@@ -47,8 +47,6 @@ Primer: Vallejo Polyurethane Black Primer
 
 ### Bases
 
-| ITEM | BASE | HIGHLIGHT I | HIGHLIGHT II |
-| --- | --- | --- | --- |
-| Earth | GW Rhinox Hide | Krautcover Kodama Woods |  |
-| Baserand | GW Rhinox Hide |  |  |
-| Tufts |  |  |  |
+- Paint base with GW Rhinox Hide
+- Add Krautcover Kodama Woods
+- Add Tufts & Clump Foliage
