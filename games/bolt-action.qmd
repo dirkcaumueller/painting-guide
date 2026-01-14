@@ -25,6 +25,9 @@ Primer: Vallejo Polyurethane Black Primer
 | Weapon | VMC Dark Grey | GW Nuln Oil | VMC Basalt Grey | VMC Basalt Grey & VMC Deck Tan (50/50) |  |
 | Poncho | VMC Luftwaffe Cam. Green | GW Athonian Camoshade | VMC Luftwaffe Cam. Green | VGC Goblin Green |  |
 | Knife Sheath | GW Dryad Bark | GW Agrax Earthshade | GW Dryad Bark | GW Gorthor Brown |  |
+| Blond Hair | GW Zandri Dust | GW Reikland Fleshshade | GW Zandr Duast | VMC Green Ochre | VMC Bufff |
+| Brown Hair | GW Mournfang Brown | GW Agrax Earthshade | GW Mournfang Brown | GW Skrag Brown |  |
+| Black Hair | GW Contrast Black Templar |  | VMC Basalt Grey |  |  |
 
 ### Mathilda II Tank
 
