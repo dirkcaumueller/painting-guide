@@ -30,6 +30,7 @@ Primer: Vallejo Polyurethane Black Primer
 | Black Hair | GW Contrast Black Templar |  | VMC Basalt Grey | VMC Deck Tan |  |
 | Mortar Ammo | GW Castellan Green | GW Athonian Camoshade | GW Castellan Green | GW Straken Green |  |
 | Knife Sheath | GW Dryad Bark | GW Agrax Earthshade | GW Dryad Bark | GW Gorthor Brown | |
+| Weapon Wood | VMC Flat Brown | GW Agrax Earthshade | VMC Flat Brown | VMC Tan-Earth & GW Mournfang Brown (50/50) | VMC Tan-Earth & GW Mournfang Brown (90/10) |
 
 ### Mathilda II Tank
 
