@@ -12,29 +12,29 @@ Primer: Vallejo Polyurethane Black Primer
 
 ### Infantry
 
-| ITEM | BASE | SHADE | HIGHLIGHT I | HIGHLIGHT II | HIGHLIGHT III | EXTRA |
-| --- | --- | --- | --- | --- | --- | --- |
-| Helmet | VMC Olive Grey 70.888 | GW Athonian Camoshade | VMC Russian Uniform 70926 | VMC Green Grey |  |
-| Boots | GW Rhinox Hide | GW Agrax Earthshade | GW Doombull Brown |  |  |
-| Uniform | Russian Uniform | GW Athonian Camoshade | VMC Russian Uniform 70926 | VMC Green Grey 70886 | VMC Green Grey 70886 & VMC Deck Tan (50/50) |
-| Painted Metal | VMC German Grey | GW Nuln Oil | VMC Basalt Grey | VMC Basalt Grey & VMC Deck Tan (50/50) |  |
-| Straps, Backpacks, Bags | VMC Khaki | GW Agrax Earthshade | VMC Khaki | VMC Iraqui Sands |  |
-| Flesh | Foundry Mediterranean Flesh (Shade) | GW Reikland Flesh  | Foundry Mediterranean Flesh (Shade) | Foundry Mediterranean Flesh | Foundry Mediterranean Flesh (Light) | GW Kislev Flesh |
-| Drinking Bottle | GW Doombull Brown | GW Agrax Earthshade | GW Doombull Brown | GW Tuskor Fur |  |
-| Drinking Bottle Metal Part, Knife | VMC Dark Grey | GW Nuln Oil | VMC Basalt Grey | VMC Basalt Grey & VMC Deck Tan (50/50) |  |
-| Weapon Metal | GW Contrast Black Templar |  | Pencil |  |  |
-| Knife | GW Boltgun Metal | GW Nuln Oil | GW Boltgun Metal | GW Chainmail  |  |
-| Poncho | VMC Luftwaffe Cam. Green | GW Athonian Camoshade | VMC Luftwaffe Cam. Green | VGC Goblin Green |  |
-| Knife Sheath | GW Dryad Bark | GW Agrax Earthshade | GW Dryad Bark | GW Gorthor Brown |  |
-| Blond Hair | GW Zandri Dust | GW Reikland Fleshshade | GW Zandr Duast | VMC Green Ochre | VMC Bufff |
-| Brown Hair | GW Mournfang Brown | GW Agrax Earthshade | GW Mournfang Brown | GW Skrag Brown |  |
-| Black Hair | GW Contrast Black Templar |  | VMC Basalt Grey | VMC Deck Tan |  |
-| Mortar Ammo | GW Castellan Green | GW Athonian Camoshade | GW Castellan Green | GW Straken Green |  |
-| Knife Sheath | GW Dryad Bark | GW Agrax Earthshade | GW Dryad Bark | GW Gorthor Brown | |
-| Weapon Wood | VMC Flat Brown | GW Agrax Earthshade | VMC Flat Brown | VMC Tan-Earth & GW Mournfang Brown (50/50) | VMC Tan-Earth & GW Mournfang Brown (90/10) |
-| Rifle Strap | VMC Green Ochre | GW Agrax Earthshade | VMC Green Ochre | VMC Green Ochre & VMC Iraqui Sand (50/50) |  |
-| Slouch Hat | VMC English Uniform | GW Agrax Earthshade | VMC English Uniform | VMC US Field Drab | VMC US Field Drab & VMC Iraqui Sand (90/10) |
-| Slouch Hat Bands | VMC Iraqui Sand | GW Agrax Earthshade | VMC Iraqui Sand |  |  |
+| ITEM | BASE | SHADE | HIGHLIGHT I | HIGHLIGHT II | HIGHLIGHT III | EXTRA | Extra 2 |
+| --- | --- | --- | --- | --- | --- | --- | --- |
+| Helmet | VMC Olive Grey 70.888 | GW Athonian Camoshade | VMC Russian Uniform 70926 | VMC Green Grey |  |  |
+| Boots | GW Rhinox Hide | GW Agrax Earthshade | GW Doombull Brown |  |  |  |
+| Uniform | Russian Uniform | GW Athonian Camoshade | VMC Russian Uniform 70926 | VMC Green Grey 70886 | VMC Green Grey 70886 & VMC Deck Tan (50/50) |  |
+| Painted Metal | VMC German Grey | GW Nuln Oil | VMC Basalt Grey | VMC Basalt Grey & VMC Deck Tan (50/50) |  |  |
+| Straps, Backpacks, Bags | VMC Khaki | GW Agrax Earthshade | VMC Khaki | VMC Iraqui Sands |  |  |
+| Flesh | Foundry Mediterranean Flesh (Shade) | GW Reikland Flesh  | Foundry Mediterranean Flesh (Shade) | Foundry Mediterranean Flesh | Foundry Mediterranean Flesh (Light) | GW Kislev Flesh |  |
+| Drinking Bottle | GW Doombull Brown | GW Agrax Earthshade | GW Doombull Brown | GW Tuskor Fur |  |  |
+| Drinking Bottle Metal Part, Knife | VMC Dark Grey | GW Nuln Oil | VMC Basalt Grey | VMC Basalt Grey & VMC Deck Tan (50/50) |  |  |
+| Weapon Metal | GW Contrast Black Templar |  | Pencil |  |  |  |
+| Knife | GW Boltgun Metal | GW Nuln Oil | GW Boltgun Metal | GW Chainmail  |  |  |
+| Poncho | VMC Luftwaffe Cam. Green | GW Athonian Camoshade | VMC Luftwaffe Cam. Green | VGC Goblin Green |  |  |
+| Knife Sheath | GW Dryad Bark | GW Agrax Earthshade | GW Dryad Bark | GW Gorthor Brown |  |  |
+| Blond Hair | GW Zandri Dust | GW Reikland Fleshshade | GW Zandr Duast | VMC Green Ochre | VMC Bufff |  |
+| Brown Hair | GW Mournfang Brown | GW Agrax Earthshade | GW Mournfang Brown | GW Skrag Brown |  |  |
+| Black Hair | GW Contrast Black Templar |  | VMC Basalt Grey | VMC Deck Tan |  |  |
+| Mortar Ammo | GW Castellan Green | GW Athonian Camoshade | GW Castellan Green | GW Straken Green |  |  |
+| Knife Sheath | GW Dryad Bark | GW Agrax Earthshade | GW Dryad Bark | GW Gorthor Brown | |  |
+| Weapon Wood | VMC Flat Brown | GW Agrax Earthshade | VMC Flat Brown | VMC Tan-Earth & GW Mournfang Brown (50/50) | VMC Tan-Earth & GW Mournfang Brown (90/10) |  |
+| Rifle Strap | VMC Green Ochre | GW Agrax Earthshade | VMC Green Ochre | VMC Green Ochre & VMC Iraqui Sand (50/50) |  |  |
+| Slouch Hat | VMC English Uniform | GW Agrax Earthshade | VMC English Uniform | VMC US Field Drab | VMC US Field Drab & VMC Iraqui Sand (90/10) | GW Contrast Skeleton Horde & GW Contrast Medium (90/10) |
+| Slouch Hat Bands | VMC Iraqui Sand | GW Contrast Skeleton Horde | VMC Iraqui Sand |  |
 
 ### Mathilda II Tank
 
